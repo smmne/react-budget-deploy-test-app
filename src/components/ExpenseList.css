@@ -1,0 +1,11 @@
+.list {
+    list-style-type: none;
+    border: none;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+.btn-icon {
+    margin-left: 10px;
+    vertical-align: -2px;
+}
